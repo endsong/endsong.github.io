@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "autoprefixer": "^9.8.8",
+    "dexie": "^3.2.0",
     "postcss": "^7.0.39",
     "sirv-cli": "^1.0.0",
     "svelte-preprocess": "^4.10.1",
